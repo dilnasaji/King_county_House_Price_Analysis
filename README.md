@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes residential property sales in King County, Washington,to explore the factors associated with house prices and develop regression models for price prediction.The project was completed as part of the IBM Data Analysis with Python course and has been organized as part of my data analytics portfolio.
+This project analyzes residential property sales in King County, Washington, to explore the factors associated with house prices and develop regression models for price prediction. The project was completed as part of the IBM Data Analysis with Python course and has been organized as part of my data analytics portfolio.
 
 ## Objectives
 
